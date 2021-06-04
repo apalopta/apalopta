@@ -24,7 +24,7 @@ If there is time left I try to learn new cool stuff.
 
 How to feed my son with coding knowledge:
 
-- I want him to learn _Python_ (he already has got some _Scratch_ experience).
+- I want him to learn _Python_ (he's got some _Scratch_ experience already).
 - He wants to be a _Minecraft_ programmer instantly.
 
 <!---
