@@ -14,7 +14,7 @@ I'm a senior developer graduated from Munich UAS (Geodesy & Computer Science).
 
 - _Groovy_ stuff like: Kotlin, RevealJS
 - somehow Rust and V (however, 24 hours per day is less time to keep up with everything...)
-- favorite editors: _IntelliJ_, _Vim_, currently trying _Visual Code_
+- favorite editors: _IntelliJ_, _Vim_, currently trying _Visual Studio Code_
 
 <!---
 apalopta/apalopta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
