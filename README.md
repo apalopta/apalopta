@@ -16,6 +16,10 @@ If there is time left I try to learn new cool stuff.
 ## Interests
 
 - cool stuff like: Kotlin, RevealJS
+- last projects:
+  - automated Bitbucket plugin configuration (REST API client as Gradle tasks for usage with Jenkins)
+  - AOC - kind of challenging to newbies
+  - tried ktor for Bitbucket queries - I think I'll never try it again with plain Groovy
 - if there is time: Rust and V (days are too short...)
 - favorite editors: _IntelliJ_, _Vim_, _Visual Studio Code_ isn't bad either.
 
