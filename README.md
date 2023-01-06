@@ -8,24 +8,20 @@ If there is time left I try to learn new cool stuff.
 
 ## Job
 
-- Member of a Scrum team
-- Roles: developer, build master
-- Languages: Groovy, C, Java, Java Card and Asciidoctor
-- Test framework: Spock
-- Build environment: Gradle, Nexus, Jenkins, Git/Bitbucket
+- Configuration Management
+- Environment: Jenkins, Git/Bitbucket, Nexus
+- Tool expert: Gradle, Bitbucket
+- Languages: Groovy, Kotlin, C, Java, Java Card, Asciidoctor and others
 
 ## Interests
 
 - cool stuff like: Kotlin, RevealJS
-- somehow Rust and V (however, 24 hours per day is less time to keep up with everything...)
-- favorite editors: _IntelliJ_, _Vim_, currently trying _Visual Studio Code_
+- if there is time: Rust and V (days are too short...)
+- favorite editors: _IntelliJ_, _Vim_, _Visual Studio Code_ isn't bad either.
 
 ## Family Project
 
-How to feed my son with coding knowledge:
-
-- I want him to learn _Python_ (he's got some _Scratch_ experience already).
-- He wants to be a _Minecraft_ programmer instantly.
+How to feed my son with coding basics while he's keen on extending _Minecraft_ *phew
 
 <!---
 apalopta/apalopta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
