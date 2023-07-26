@@ -8,14 +8,14 @@ If there is time left I try to learn new cool stuff.
 
 ## Job
 
-- Configuration Management
+- Configuration Management (after 15 years as a SmartCard OS developer and build master)
 - Environment: Jenkins, Git/Bitbucket, Nexus
 - Tool expert: Gradle, Bitbucket
 - Languages: Groovy, Kotlin, C, Java, Java Card, Asciidoctor and others
 
 ## Interests
 
-- cool stuff like: Kotlin, RevealJS
+- cool stuff like Kotlin and Kotlin Notebooks
 - last projects:
   - automated Bitbucket plugin configuration (REST API client as Gradle tasks for usage with Jenkins)
   - AOC - kind of challenging to newbies
@@ -25,7 +25,7 @@ If there is time left I try to learn new cool stuff.
 
 ## Family Project
 
-How to feed my son with coding basics while he's keen on extending _Minecraft_ *phew
+How to feed my son with coding basics while he's keen on extending _Minecraft_...
 
 <!---
 apalopta/apalopta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
