@@ -1,31 +1,32 @@
 # Whoami
 
-I'm a senior developer graduated from Munich UAS (Geodesy & Computer Science).
+I'm a senior developer graduated from Munich UAS (degrees in Geodesy & Computer Science).
 
 Married, two children.
 
-If there is time left I try to learn new cool stuff.
+If there is time left I try to learn something new.
 
 ## Job
 
 - Configuration Management (after 15 years as a SmartCard OS developer and build master)
 - Environment: Jenkins, Git/Bitbucket, Nexus
 - Tool expert: Gradle, Bitbucket
-- Languages: Groovy, Kotlin, C, Java, Java Card, Asciidoctor and others
+- Languages: Kotlin, Groovy, C, Java, Java Card, Asciidoctor and others
 
 ## Interests
 
-- cool stuff like Kotlin and Kotlin Notebooks
+- cool stuff like Kotlin and Notebooks
 - last projects:
-  - automated Bitbucket plugin configuration (REST API client as Gradle tasks for usage with Jenkins)
-  - AOC - kind of challenging to newbies
-  - tried ktor for Bitbucket queries - I think I'll never try it again with plain Groovy
-- if there is time: Rust and V (days are too short...)
-- favorite editors: _IntelliJ_, _Vim_, _Visual Studio Code_ isn't bad either.
+  - automated Bitbucket plugin configuration (via REST API client)
+  - AOC, GildedRose Kata
+  - tried ktor for Bitbucket, Sonar, etc. queries -> I'll never use Groovy again...
+  - use Dataframes in my tools
+- favorite editors/IDEs: _IntelliJ_ and _Vim_
+- next event: KotlinConf 2024
 
 ## Family Project
 
-How to feed my son with coding basics while he's keen on extending _Minecraft_...
+How to feed a kid with coding basics while he's keen on the "cool stuff" 😂
 
 <!---
 apalopta/apalopta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
